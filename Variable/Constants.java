@@ -1,5 +1,4 @@
-package Variable;
-
+package Constants;
 /**
  * <h1>Soal 3: Constants</h1>
  * Constants program implements an application
