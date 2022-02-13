@@ -1,7 +1,7 @@
 package Operators;
 
 /**
- * <h1>Soal 3: Convert data type</h1>
+ * <h1>Soal 5: Convert data type</h1>
  * Convert data type program implements an application
  * to convert large data types to small data types
  * (long -> int -> short) and (double -> float -> byte)
