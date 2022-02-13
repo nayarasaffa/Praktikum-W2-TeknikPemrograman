@@ -1,4 +1,4 @@
-package Operators;
+package ConvertDataType;
 
 /**
  * <h1>Soal 5: Convert data type</h1>
