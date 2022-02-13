@@ -1,4 +1,4 @@
-package Variable;
+package Constants2;
 
 /**
  * <h1>Soal 3: Constants</h1>
