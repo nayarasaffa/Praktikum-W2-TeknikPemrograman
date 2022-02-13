@@ -27,7 +27,7 @@ public class Strings {
             String A = input.nextLine();
             String B = input.nextLine();
             System.out.println(A.length() + B.length());
-            if ((A.compareTo(B)) == 0) {
+            if ((A.compareTo(B)) > 0) {
                 System.out.println("yes");
             } else {
                 System.out.println("no");
